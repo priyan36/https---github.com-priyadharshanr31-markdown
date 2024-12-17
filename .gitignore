@@ -1,0 +1,5 @@
+/.venv
+/langchain_sample.docx
+/task.py
+/test.py
+/__pycache__
